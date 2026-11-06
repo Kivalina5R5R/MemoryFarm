@@ -1,0 +1,46 @@
+{
+    "UWBSerialPort": "COM3",
+    "UWBBaudRate": 921600,
+    "axisConversion": {
+        "rawXTo": "x",
+        "rawYTo": "-z",
+        "rawZTo": "none"
+    },
+    "UWBInputOffset": {
+        "x": -5.75,
+        "y": 0.0,
+        "z": 2.25
+    },
+    "UWBInputAxisScale": {
+        "x": 0.9565,
+        "y": 1.0,
+        "z": 0.9565
+    },
+    "metersToWorldScale": 1.0,
+    "tracking": {
+        "maxPoseAgeSeconds": 1.0,
+        "maxTrackingPredictionSeconds": 0.35,
+        "rejectTrackingPositionJumps": true,
+        "maxTrackingPositionJumpMeters": 0.75,
+        "maxTrackingPredictionSpeedMetersPerSecond": 2.5,
+        "maxTrackingRecoveryStepMeters": 0.15,
+        "maxUwbMotionSpeedMetersPerSecond": 1.8,
+        "smoothTagPosition": true,
+        "trackingPositionDeadZoneMeters": 0.08,
+        "averageUwbPositionFrames": true,
+        "uwbPositionAverageFrameCount": 4,
+        "movingLatestFrameBlend": 0.7,
+        "stationaryPositionLerp": 0.25,
+        "movingPositionLerp": 0.85,
+        "trackerSmoothTime": 0.15,
+        "trackerDeadzoneMeters": 0.03,
+        "trackerFilterStrength": 0.6,
+        "trackerSnapDistanceMeters": 2.0
+    },
+    "UWBAnchorPositions": [
+        { "x": 0.0, "y": 0.0, "z": 0.0 },
+        { "x": 0.0, "y": 0.0, "z": 0.0 },
+        { "x": 0.0, "y": 0.0, "z": 0.0 },
+        { "x": 0.0, "y": 0.0, "z": 0.0 }
+    ]
+}

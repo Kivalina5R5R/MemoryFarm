@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 086d947cc79d48a69f25db4ee0d13f93, type: 3}
+  m_Name: FarmerArt
+  m_EditorClassIdentifier: 
+  pictures:
+  - {fileID: 2800000, guid: 05fec7fdaedd48b495af1ea6092a3e89, type: 3}
+  - {fileID: 2800000, guid: fba0c10178ad4e2e95678e643d053cd4, type: 3}
+  - {fileID: 2800000, guid: ed1803a268cf429c82a9db4f24ba5f24, type: 3}
+  - {fileID: 2800000, guid: 028fb08060364172ab182d8b4d6b4f65, type: 3}
+  - {fileID: 2800000, guid: b8e4d6c6b71f49f79cf65afa2073aca3, type: 3}
+  - {fileID: 2800000, guid: aebf1ff2f12145239a585d3ec5048012, type: 3}
+  - {fileID: 2800000, guid: 9d45f53578784915b104c8a6c3c3380f, type: 3}
+  - {fileID: 2800000, guid: e1b966478dd44d7c9fb841aafedb0c9f, type: 3}
+  - {fileID: 2800000, guid: 820f028f0a534396ada519c4ef2fb631, type: 3}
+  - {fileID: 2800000, guid: 13b237c293114465b698a317e76278d2, type: 3}
+  - {fileID: 2800000, guid: 4fe59bacb67e467fa9130aa4dbd5a310, type: 3}
+  - {fileID: 2800000, guid: 7e11b1434c414ce19a24cda55289a78e, type: 3}
+  - {fileID: 2800000, guid: febe9d40128a4b4891b7e37cf1b2bbb8, type: 3}
+  - {fileID: 2800000, guid: 2300b953022349b7b89f00e62a35db66, type: 3}
+  - {fileID: 2800000, guid: 7cfb1f903ae24cb1a62f75bf619ce5c4, type: 3}
+  - {fileID: 2800000, guid: 4ec1becb4cb1495c8fb38dce41ed2f2b, type: 3}
+  - {fileID: 2800000, guid: ce94235502a8433d937d03588029bc98, type: 3}
+  - {fileID: 2800000, guid: c3de374be535464d90f4ba721fb49771, type: 3}
+  - {fileID: 2800000, guid: 2e8ed498cb6945469bbefbe922a636c7, type: 3}
+  - {fileID: 2800000, guid: c970f0b2dcc84bd9a6af30db97d131b9, type: 3}
